@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narcisse-dev
-- 👀 I’m interested in developing mobile and web sofwares
+- 👀 I’m interested in developing mobile and web softwares
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me : traore.ntechnology@gmail.com
